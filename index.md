@@ -1,6 +1,7 @@
 # some notes
 
-[move mysql data dir](move-mysql.md)
+1. [move mysql data dir](move-mysql.md)
+2. [parse json with bigint](json-bigint.md)
 
 ## Markdown
 

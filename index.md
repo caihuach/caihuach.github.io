@@ -1,8 +1,17 @@
-# some notes
+# caihua's first blog
+
+## some notes
 
 1. [move mysql data dir](notes/move-mysql.md)
 2. [parse json with bigint](notes/json-bigint.md)
 3. [add maxsize to logrotate](notes/ubuntu-logrotate.md)
+
+## some commands
+
+```bash
+tail -n a file_from >> file_to # copy last a lines from to
+sed -i a,bd file # delete from line a to b of a file
+```
 
 ## Markdown
 
